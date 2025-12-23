@@ -1,0 +1,17 @@
+# data / big files
+*.h5
+*.hdf5
+*.xmf
+data/
+giverny_output/
+raw/
+outputs/
+
+# python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# jupyter checkpoint
+.ipynb_checkpoints/
